@@ -1,0 +1,56 @@
+@charset "utf-8";
+/* CSS Document */
+img{
+	display: block;
+}
+.ctop{
+	margin-left: 50px;
+	margin-right: 20px;
+	margin-top: 20px;
+}
+.cl{
+	margin-left: 40px;
+	margin-right: 20px;
+	margin-top: -150px;
+}
+.ct{
+	margin-left: 580px;
+	margin-right: 20px;
+	margin-top: -100px;
+}
+#ctop{
+	background:white;
+	width:900px;
+	height: 420px;
+	float:left;
+}
+#cl{
+	background:white;
+	width: 900px;
+	height: 380px;
+	float:left;
+}
+#cl h2{
+	margin-left:370px;
+	margin-top: 30px;
+	font-size: 30px;
+	
+}
+
+#ct{
+	background:white;
+	font-weight:800px;
+	height: 320px;
+	float: left;
+}
+#ct h2{
+	font-size: 30px;
+	margin-left: 60px;
+}
+#ct p{
+	font-size: 18px;
+	text-indent: 2em;
+	margin-top: 20px;
+	margin-left: 20px;
+	margin-right: 350px;
+}
